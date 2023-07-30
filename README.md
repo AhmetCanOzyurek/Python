@@ -1,0 +1,2 @@
+# Pyhton
+ Öğrenme sürecimdeki adımlar.
