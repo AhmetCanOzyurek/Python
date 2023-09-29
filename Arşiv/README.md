@@ -1,2 +1,0 @@
-# Python
- Öğrenme sürecimdeki adımlar.
